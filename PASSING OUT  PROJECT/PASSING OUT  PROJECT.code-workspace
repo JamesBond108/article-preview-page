@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../School Website"
+		},
+		{
+			"path": "../Learn JS"
+		},
+		{
+			"path": "../Java"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "School Website"
+	}
+}
